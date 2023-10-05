@@ -1,16 +1,27 @@
 .cabecalho
 {
-    background-color: aquamarine;
+    background-color: rgb(169, 182, 178);
+    margin: 5px;
+    border: 2px solid black;
+    height: 200px;
+    text-align: center;
+
 
 }
 .corpo
 {
+    display: flex;
+    flex-direction: ;
     background-color:antiquewhite;
+    border: 5px solid black;
+
 
 }
-div
+.meio
 {
-    background-color:khaki;
-    margin: 55;
-    border: 75;
+    text-align: center;
+    background-color:rgb(169, 182, 178) ;
+    margin: 0px;
+    border: 2px solid black;
+    float: left;
 }
